@@ -19,21 +19,21 @@
   <tr>
     <td align="center">
       <img width="60%" height="1280" alt="photo_2026-09-24_23-51-21 1" src="https://github.com/user-attachments/assets/babe517a-038b-4ea9-aa1c-6ff349235d07" />
-      <br /><em>Upload</em>
+      <br /><em>Your Travels Screen</em>
     </td>
     <td align="center">
       <img width="60%" height="1280" alt="photo_2026-09-24_23-51-22 1" src="https://github.com/user-attachments/assets/0f15e927-042b-4a96-a759-e402a3bfc9e1" />
-      <br /><em>Query</em>
+      <br /><em>Travel Photo Screen</em>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img width="60%" height="1280" alt="Group 51" src="https://github.com/user-attachments/assets/0b03b8ba-1bab-4251-8f1a-c1166862b1c1" />
-      <br /><em>Folder Analysis</em>
+      <br /><em>Travel Screen</em>
     </td>
     <td align="center">
       <img width="60%" height="1280" alt="photo_2026-09-24_23-51-20 1" src="https://github.com/user-attachments/assets/27cbfa71-8a45-483a-8334-85a214b396e5" />
-      <br /><em>Doc Analysis</em>
+      <br /><em>Travel Share Screen</em>
     </td>
   </tr>
 </table>
